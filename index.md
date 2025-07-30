@@ -7,3 +7,7 @@
 ```python
 print("Hola mundo")
 ```
+
+- [x] Azucar
+- [ ] Limon
+- [ ] Camara
